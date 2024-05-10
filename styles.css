@@ -58,6 +58,10 @@ select {
     border-radius: 0.5rem;
 }
 
+input[type="text"]:focus {
+    border-color: #3c5e4f;
+}
+
 input[type="checkbox"],
 label {
     text-align: left;
