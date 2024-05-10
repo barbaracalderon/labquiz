@@ -1,26 +1,73 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LabQuiz</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <header>
         <h1>LabQuiz</h1>
-        <p class="spaces">Teste seus conhecimentos sobre HTML e CSS!</p>
-        <div class="spaces">
-            <input type="text" placeholder="Digite seu nome">
-            <button>Iniciar</button>
-        </div>
+        <p>Teste seus conhecimentos sobre HTML e CSS!</p>
+        <input type="text" placeholder="Digite seu nome">
+        <button>Iniciar</button>
     </header>
     <hr>
     <main>
+        <form>
+            <h2>Questionário</h2>
+            <p class="p-form">1. Como se define um estilo inline em HTML?</p>
+            <input type="text" name="resposta1">
+
+            <p class="p-form">2. Qual é a tag usada para criar uma lista ordenada em HTML?</p>
+            <select name="resposta2">
+                <option value="ol">ol</option>
+                <option value="ul">ul</option>
+                <option value="li">li</option>
+                <option value="order-list">order-list</option>
+            </select>
+            <p class="p-form">3. Qual propriedade CSS é usada para alterar a cor do texto?</p>
+            <select name="resposta3">
+                <option value="font-color">font-color</option>
+                <option value="color">color</option>
+                <option value="background-color">background-color</option>
+                <option value="text-color">text-color</option>
+            </select>
+            <p class="p-form">4. Como se referencia um arquivo CSS externo em um documento HTML?</p>
+            <input type="text" name="resposta4">
+            <p class="p-form">5. Font-size é a propriedade CSS usada para alterar o tamanho da fonte de um texto?</p>
+            <select name="resposta5">
+                <option value="sim">sim</option>
+                <option value="não">não</option>
+            </select>
+            <p class="p-form">6. Qual é a propriedade CSS usada para definir a largura de um elemento?</p>
+            <label><input type="checkbox" name="resposta6" value="height"> height</label>
+            <label><input type="checkbox" name="resposta6" value="size"> size</label>
+            <label><input type="checkbox" name="resposta6" value="width"> width</label>
+            <label><input type="checkbox" name="resposta6" value="max-width"> max-width</label>
+
+            <p class="p-form">7. Como se cria um comentário em CSS?</p>
+            <label><input type="checkbox" name="resposta7" value="html-comment"> &lt;!-- --&gt;</label>
+            <label><input type="checkbox" name="resposta7" value="double-slash"> //</label>
+            <label><input type="checkbox" name="resposta7" value="slash-asterisk"> /* */</label>
+
+            <p class="p-form">8. Qual é a propriedade CSS usada para definir a altura de um elemento?</p>
+            <label><input type="checkbox" name="resposta8" value="height"> height</label>
+            <label><input type="checkbox" name="resposta8" value="size"> size</label>
+            <label><input type="checkbox" name="resposta8" value="width"> min-height</label>
+            <label><input type="checkbox" name="resposta8" value="max-width"> max-height</label>
+            <button>Enviar</button>
+        </form>
     </main>
     <hr>
     <footer>
-        <p>Feito por <a href="https://github.com/barbaracalderon">Barbara Calderon</a></p>
-    </footer>    
+        <p>Desenvolvido por Barbara Calderon</a> <strong><a
+                    href="https://github.com/barbaracalderon">(Github)</strong></a> | <a
+                href="https://linkedin.com/in/barbaracalderondev"><strong>(Linkedin)</strong></a></p>
+    </footer>
 </body>
+
 </html>
