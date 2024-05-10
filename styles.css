@@ -60,6 +60,7 @@ select {
 
 input[type="text"]:focus {
     border-color: #3c5e4f;
+    box-shadow: #5a8d73;
 }
 
 input[type="checkbox"],
@@ -99,7 +100,6 @@ footer {
 footer p {
     font-size: 1rem;
     margin: 0;
-    /* Remove default margins */
 }
 
 footer a {
