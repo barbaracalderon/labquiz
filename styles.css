@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+    background-color: #F1F1F1;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 24px;
+}
