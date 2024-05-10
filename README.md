@@ -44,4 +44,4 @@ Os estilos CSS aplicados ao formulário incluem:
 
 ## Considerações Finais
 
-O LabQuiz é um projeto simples, mas útil para testar e praticar habilidades relacionadas a HTML, CSS e design de formulários. Desenvolvido por mim, Barbara Calderon.
+O LabQuiz é um projeto simples, mas útil para testar e praticar habilidades relacionadas a HTML, CSS e design de formulários. Desenvolvido por mim, Barbara Calderon, como atividade individual do curso Fullstack do SENAI/SC - Florianópolis, iniciativa **Floripa Mais Tech** pelo LAB365.
