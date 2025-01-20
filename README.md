@@ -1,8 +1,22 @@
+_(Portuguese version | [Click here for the English version.](https://github.com/barbaracalderon/labquiz/blob/main/README-en.md))_
+
 # LabQuiz
 
 LabQuiz é um projeto de formulário HTML/CSS para testar conhecimentos sobre HTML e CSS.
 
 ![Labquiz](labquiz.png)
+
+## Introdução
+
+Este projeto consiste em um formulário HTML/CSS chamado LabQuiz, destinado a testar conhecimentos sobre HTML e CSS. Ele foi desenvolvido como parte de um exercício prático para praticar habilidades de codificação frontend.
+
+## Autor
+
+Barbara Calderon, Desenvolvedora de Software.
+
+- [Github](https://www.github.com/barbaracalderon)
+- [Linkedin](https://www.linkedin.com/in/barbaracalderondev/?locale=en_US)
+- [Twitter](https://www.x.com/bederoni)
 
 ## Sumário
 
@@ -11,10 +25,6 @@ LabQuiz é um projeto de formulário HTML/CSS para testar conhecimentos sobre HT
 3. [Instruções de Uso](#instruções-de-uso)
 4. [Estilos CSS](#estilos-css)
 5. [Considerações Finais](#considerações-finais)
-
-## Introdução
-
-Este projeto consiste em um formulário HTML/CSS chamado LabQuiz, destinado a testar conhecimentos sobre HTML e CSS. Ele foi desenvolvido como parte de um exercício prático para praticar habilidades de codificação frontend.
 
 ## Estrutura do Projeto
 
